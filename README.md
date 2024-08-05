@@ -1,6 +1,3 @@
-### GitHub Repository Name
-**TextCryptor**
-
 ### Description
 TextCryptor is a simple and efficient text encryption and decryption tool implemented in Python. This project provides a user-friendly command-line interface for encrypting and decrypting messages using a custom substitution cipher. The tool allows users to specify a key to shift characters within a predefined set of symbols, offering a basic level of security for textual data.
 
